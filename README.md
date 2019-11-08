@@ -1,0 +1,1 @@
+This is Eric Russell's first git project!
