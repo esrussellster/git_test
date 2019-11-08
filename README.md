@@ -1,1 +1,1 @@
-This is Eric Russell's first git project!
+This is esrussellster's first git project!
